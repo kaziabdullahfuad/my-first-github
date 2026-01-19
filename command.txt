@@ -2,6 +2,7 @@
 git init
 # puts the files to the staging area
 git add .
+# every time you commit
 git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/kaziabdullahfuad/my-first-github.git
